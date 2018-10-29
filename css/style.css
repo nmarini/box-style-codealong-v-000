@@ -243,6 +243,11 @@ img, video, audio, iframe, table, form {
   color: white;
 }
 
+#navbar nav a:hover {
+  color: white;
+  
+}
+
 /*////////// LOGO //////////*/
 
 
